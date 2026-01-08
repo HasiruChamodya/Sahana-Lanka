@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655672430396",
+    "project_id": "mobile-app-v2-87ce6",
+    "storage_bucket": "mobile-app-v2-87ce6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655672430396:android:805c95f11fe24a5430d839",
+        "android_client_info": {
+          "package_name": "com.shanalanka.emergency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPHbRtwZGUTqopj_Hm6ZQeeGaFISVvvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
